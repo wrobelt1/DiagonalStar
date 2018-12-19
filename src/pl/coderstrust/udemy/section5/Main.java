@@ -6,8 +6,10 @@ public class Main {
 	    printSquareStar(5);
 	    printSquareStar(12);
     }
-    
+
     //metodaprintSquareStar
+    //kolejny komentarz
+    
     public static void printSquareStar(int number) {
         if (number < 5) {
             System.out.println("Invalid Value");
