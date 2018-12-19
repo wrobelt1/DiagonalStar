@@ -9,7 +9,7 @@ public class Main {
 
     //metodaprintSquareStar
     //kolejny komentarz
-    
+
     public static void printSquareStar(int number) {
         if (number < 5) {
             System.out.println("Invalid Value");
